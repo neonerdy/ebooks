@@ -1,5 +1,7 @@
 # Ebooks
 
+![Alt text](https://github.com/neonerdy/ebooks/blob/master/dashboard.JPG "E-Book")
+
 E-book bertema .NET ini saya tulis dalam kurun waktu 2008 - 2009. Buku ini diterbitkan secara digital oleh komunitas INDC (Indonesia 
 DotNet Community) yang disposnsori Microsoft Indonesia.
 
