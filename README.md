@@ -27,4 +27,7 @@ sebuah lightweight data access layer framework yang menerapkan repository patter
 
 ## Origami Reference
 
-E-book ini adalah referensi sebuah ORM Framework yang saya buat. Framework tersebut bisa diakses di https://github.com/neonerdy/origami
+E-book ini adalah referensi sebuah ORM Framework yang saya buat. 
+Origami adalah lightweight enterprise application framework di .NET platform. Terdiri dari 4 application blocks : Container, Data, Logging, and Security.
+
+Framework tersebut bisa diakses di https://github.com/neonerdy/origami
